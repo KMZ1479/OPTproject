@@ -1,0 +1,16 @@
+{
+  "api_endpoint": "https://mymobile.optimum.com/api/auth/login",
+  "login_url": "https://mymobile.optimum.com/login",
+  "timeout": 30,
+  "retry_count": 3,
+  "delay_min": 1,
+  "delay_max": 3,
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Content-Type": "application/json",
+    "Accept": "application/json",
+    "Accept-Language": "es-ES,es;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Origin": "https://www.myoptimum.com",
+    "Referer": "https://mymobile.optimum.com/login"
+  }
+}
